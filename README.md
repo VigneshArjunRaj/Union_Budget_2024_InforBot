@@ -52,7 +52,7 @@ It leverages Context based and Dataframe based retrieval technique to provide in
 
 ## Screenshots
 
-![Thinking](https://github.com/VigneshArjunRaj/Union_Budget_2024_InforBot/blob/main/Outputs/Output1.png)
+![Thinking](https://github.com/VigneshArjunRaj/Union_Budget_2024_InforBot/blob/main/Outputs/Output4.png)
 
 ![Complete](https://github.com/VigneshArjunRaj/Union_Budget_2024_InforBot/blob/main/Outputs/Output3.png)
 

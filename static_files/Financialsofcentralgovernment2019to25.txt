@@ -1,0 +1,359 @@
+Finances of the Central Government (2019-20 to 2024-25)
+This note looks at certain trends in the finances of the central government for the period from 2019-20 to 2024-
+25. The initial years of 2019-20 and 2020-21, were marked by economic slowdown and the COVID-19
+pandemic. The imposition of national lockdown in 2020-21, took a toll on the finances of the central
+government. Tax collection plummeted while fiscal and revenue deficits increased to multi-year highs.
+However, some of the increase in the central government’s fiscal deficit was because of clearing of unpaid
+subsidy dues from previous years.
+In the post pandemic period, the central government has significantly increased budgetary expenditure on capital
+outlay. It has also been providing interest free loans to states for capital expenditure. On the revenue side, the
+central government’s gross tax revenue as a percentage of GDP has remained broadly similar. However, it has
+consistently fallen short of meeting its disinvestment estimates. This note was originally published in February
+2024 after the interim budget. It has been updated to reflect the latest budget estimates for 2024-25 as presented
+in July 2024.
+Capital expenditure of public sector at lower levels despite higher budgetary outlay
+The central government undertakes capital outlay in various sectors such as defence, railways, roads, and
+highways. Capital outlay leads to the creation of assets and increases the economy’s productive capacity along
+with promoting efficiency.
+1
+ There are two broad ways of funding public sector capital outlay: (i) through direct
+budgetary support by the central government or (ii) mobilising resources by public enterprises and departmental
+undertakings. Public enterprises and departmental undertakings (such as Indian Railways under the Ministry of
+Railways) can mobilise resources for capital investment through various sources such as utilising internal
+receipts, issuing bonds, and external commercial borrowings. These are also known as internal and extrabudgetary resources (IEBR).
+Figure 1: Capital expenditure by central government
+and public enterprises (% of GDP)
+Note: RE is revised estimate and BE is budget estimate.
+Sources: Union Budget Documents; MoSPI; PRS.
+Between 2019-20 and 2024-25, budgetary support
+for capital outlay is seen increasing from 1.5% of
+GDP to 2.8% of GDP. This has been supported by
+higher fiscal deficit by the Centre. At the same
+time, capital investments by public enterprises
+financed through IEBR is seen decreasing from
+3.2% of GDP to 1.1% of GDP. This indicates
+substitution of capital investment of public entities
+by budgetary spending. Note that while budgetary
+spending on capital outlay has increased, public
+sector capital expenditure (including Centre and
+public entities) is estimated to decrease from 4.7%
+of GDP in 2019-20 to 3.9% of GDP in 2024-25. A
+significant portion of this substitution has
+happened in railways and roads. Since 2019-20,
+capital outlay on railways, roads, and defence have
+accounted for over 70% of the budgetary spending
+on capital outlay. In 2019-20, IEBR of railways
+and roads accounted for 24% of total IEBR. This
+has reduced to 4% of total IEBR to be raised by
+Railways and none for roads in 2024-25.
+One of the reasons for reducing the practice of raising funds through IEBR could be the increasing indebtedness
+of certain public entities. For instance, the Ministry of Road Transport and Highways did not mandate the
+National Highways Authority of India (NHAI) to raise funds from IEBR given its increasing debt servicing
+obligations.2
+ As of February 28, 2023, NHAI’s total outstanding debt was Rs 3.43 lakh crore.3
+ Its debt
+servicing as a share of total allocation was 25% in 2021-22 which is expected to decrease to 21% in 2027-28.2
+
+The Standing Committee on Transport (2022) had noted that high budgetary support alone may not be sufficient
+to meet the investment requirements of NHAI.4
+
+
+Share of fertiliser subsidies increased while petroleum subsidies phased out
+In 2024-25, the central government’s expenditure on providing subsidies is estimated to be 1.3% of GDP and
+12% of its total revenue expenditure. The central government provides various subsidies such as food subsidy,
+subsidised fertilisers, petroleum subsidy (for LPG), and interest subsidies.
+Between 2019-20 and 2024-25, expenditure on
+fertiliser subsidy is estimated to increase annually by
+15%. Petroleum subsidy reduced from Rs 38,529
+crore in 2019-20 to Rs 11,925 crore in 2024-25 as per
+budget estimates, and is now mainly for providing
+LPG to poor families. Food subsidy, after adjusting
+for National Small Savings Fund (NSSF) loans,
+increased by 4% annually in the same period. Food
+subsidy is provided to: (i) the FCI for distribution of
+foodgrains under the National Food Security Act
+(NFSA), 2013 and (ii) states for decentralised
+procurement of foodgrains.5
+ In the past, various
+recommendations have been made to rationalise the
+increasing expenditure on food subsidy. These
+include: (i) revising the central issue price and (ii)
+providing direct transfer of cash subsidy to
+beneficiaries.5,6,7 Between April 2020 and December
+2022, the central government provided additional
+foodgrains to NFSA beneficiaries for free. In
+November 2023, the central government decided to
+provide free foodgrains to NFSA beneficiaries for five
+years from January 1, 2024 onwards at a cost of Rs
+11.8 lakh crore.8
+Figure 2: Expenditure on major subsidies as % of
+GDP
+Note: Food subsidy has been adjusted to reflect NSSF loans as part
+of subsidy in 2019-20 and 2020-21. RE is revised estimate and BE
+is budget estimate.
+Sources: Union Budget Documents; MoSPI; PRS.
+Fertiliser subsidy is paid to manufacturers and importers who sell fertilisers to farmers at less than market
+prices.5
+ In the production of fertilisers, India is heavily dependent on imports for procuring raw materials.5
+ The
+15th Finance Commission had noted that such dependence makes India vulnerable to volatility in international
+prices and makes fertiliser subsidies unsustainable.5
+ In the past, the central government has resorted to offbudget financing to defer payment of fertiliser subsidy.9
+ The Standing Committee on Chemicals and Fertilizers
+(2020) had observed that several fertiliser plants operate with very old technology.10
+ Thus, the government
+bears the cost of this inefficiency in terms of higher subsidy. It recommended that farmers should receive
+fertiliser subsidy directly in their bank accounts while manufacturers should be free to produce and sell
+fertilisers as per their own system.10
+
+Most revenue receipts spent on committed expenditure, subsidies, grants, key schemes
+Figure 3: Share of revenue receipts spent on certain key
+items
+Note: Major subsidies include food, fertiliser, and petroleum. Key schemes
+include MGNREGS, Pradhan Mantri Awas Yojana, Jal Jeevan Mission, and
+PM-KISAN. RE is revised estimate and BE is budget estimate.
+Sources: Union Budget Documents; PRS.
+Revenue expenditure implies spending on
+items which do not lead to creation of assets.
+Some of the major items of revenue
+expenditure for the central government
+include committed expenditure (interest,
+pension, salaries), subsidies, finance
+commission grants to states, and certain key
+schemes. Between 2019-20 and 2024-25, the
+central government’s expenditure on these
+items is estimated to account for over 85% of
+its revenue receipts. In this period, the
+central government consistently spent more
+than 60% of its revenue receipts on interest,
+salaries, and pension. This was followed by
+spending on food, fertiliser, and petroleum
+subsidies. Since 2020-21, the Centre has
+spent at least 10% of its revenue receipts on
+four schemes—MGNREGS, Jal Jeevan
+Mission, Pradhan Mantri Awas Yojana, and
+PM-KISAN. Note that the components
+shown in Figure 3 do not include revenue
+expenditure on other centrally sponsored
+schemes, central sector schemes, and
+establishment expenditure.
+
+Other revenue expenditure not included in Figure 3 have accounted for at least 30% of the central government’s
+revenue receipts between 2019-20 and 2024-25. Incurring revenue expenditure in excess of revenue receipts
+implies that the central government has continued to be in revenue deficit since 2019-20 (see page 4). To
+maintain a revenue balance, the central government either would have to increase revenue receipts or reduce
+revenue expenditure. Note that committed expenditure on interest, salaries, and pension is difficult to
+rationalise in the short to medium term. Finance commission grants given to states are also broadly unchanged
+once the recommendations are accepted by the central government.
+Central government’s gross tax revenue has remained largely unchanged
+In 2019-20 and 2020-21, the central government’s
+gross tax revenue decreased to around 10% of GDP
+on account of economic slowdown and the COVID19 pandemic respectively. It has since then
+recovered to reach around 11%-11.5% of GDP which
+was the rate prior to 2019-20. Income tax,
+corporation tax, and goods and services tax (GST)
+have accounted for over 70% of the central
+government’s gross tax revenue since 2018-19. In
+2024-25, revenue from each of these three tax
+sources is estimated to be around 3%-3.5% of GDP.
+In recent years, there has been a decrease in the
+contribution of corporate tax to the gross tax revenue.
+This has been driven by the reduction in corporate tax
+rates to attract investment and support economic
+growth.11
+ Revenue from income tax has seen an
+increase in this period. The 15th Finance Commission
+had noted that India’s tax base was very narrow.
+12
+
+With effect from 2020-21, the central government
+introduced a new personal income tax regime where
+tax rates will be reduced if tax payers forgo certain
+exemptions and deductions.
+12
+
+Figure 4: Gross tax revenue and revenue from
+major taxes as % of GDP
+Note: RE is revised estimate and BE is budget estimate.
+Sources: Union Budget Documents; MoSPI; PRS.
+GST was introduced in July 2017 and subsumed various taxes at the level of the Centre and states. Some of the
+central taxes which were subsumed under GST include central excise duty, service tax, and central sales tax.12
+
+Revenue from GST has remained stable at around 3% of GDP since 2018-19 except in 2020-21 when it had
+reduced to 2.8% of GDP. The 15th Finance Commission had made various recommendations to improve the
+efficiency of GST. These include: (i) correcting the inverted duty structure (GST rate on intermediates being
+higher than final goods), (ii) improving compliance, (iii) minimising exemptions, and (iv) operating with a
+three-rate structure by merging tax rates.
+12
+
+Significant revenue raised through cesses and surcharges impacting funds devolved to states
+The Constitution allows the central government to
+levy cesses and surcharges. However, they do not
+form a part of the divisible pool of taxes from which
+revenue is devolved to states as per finance
+commission recommendations.
+13
+ A cess is levied for
+a specific purpose to provide financial support to a
+sector or area.12 Surcharges are also levied for short
+periods.12
+ In recent years, the central government has
+mobilised a significant amount of its revenue by
+levying cesses and surcharges. In 2020-21 and 2021-
+22, the share of revenue raised by levying various
+cesses and surcharges was 20% and 18% respectively
+in the central government’s gross tax revenue (GTR)
+(see Figure 5). Between 2017-18 and 2024-25, the
+central government’s revenue from cesses and
+surcharges is estimated to increase at an annual rate
+of 15% while the growth in the total gross tax
+revenue is estimated to be lower at 10% per year.
+Figure 5: Share of revenue from cesses and
+surcharges in Centre's GTR
+Note: Figures exclude GST compensation cess. RE is revised
+estimate and BE is budget estimate.
+Sources: RBI; Union Budget Documents; PRS.
+The increase in cesses and surcharges has led to a decrease in devolution to states as share of the gross tax
+revenue. Thus, the finance commission formula for devolving 41% of the divisible pool has translated into 32%
+of the gross tax revenue in 2024-25 as per budget estimates. In 2019, the Reserve Bank of India (RBI) noted
+that levying cesses and surcharges neutralises the increase in tax devolution recommended by successive finance
+
+ The RBI observed that new cesses on imports had been levied to make up for the cesses which
+were subsumed under the GST. Revenue raised from cess and surcharges is estimated to decrease to 14% of
+gross tax revenue in 2024-25.
+Receipts from disinvestments have consistently fallen short of budget estimates
+Figure 6: Receipts from disinvestment (Rs crore)
+Note: RE is revised estimate and BE is budget estimate.
+Sources: Union Budget Documents; PRS.
+Disinvestment involves the sale of government’s
+shareholding in public sector enterprises. It is the
+dominant source of capital receipts for the central
+government. In February 2021, the central
+government notified the new public sector enterprise
+(PSE) policy.15
+ The policy envisages reducing the
+presence of central PSEs across sectors through
+privatisation, merger, or closure. Only a bare
+minimum presence of CPSEs will be maintained in
+strategic sectors such as defence, power, and
+banking.15 PSEs in non-strategic sectors will be
+privatised or closed.
+16
+ However, between 2019-20
+and 2023-24, the central government has consistently
+fallen short of achieving its budget target for
+disinvestment. In 2023-24, the central government’s
+revised disinvestment receipts are estimated to be
+51% lower than the budget estimates. In 2024-25,
+the Centre has budgeted to raise Rs 50,000 crore
+from disinvestment.
+The central government has discontinued the sale of its shareholding in one PSU to another PSU which was one
+of the ways in which it had met its disinvestment targets in the past. In 2017-18 and 2018-19, when the Centre
+exceeded its budgeted disinvestment targets, 37% and 17% of such receipts accrued from PSUs buying the
+government’s shareholding in other PSUs.
+17
+ Similar transactions were also done in 2019-20. In 2020, the
+Comptroller and Auditor General (CAG) of India had noted that such transactions only resulted in transfer of
+resources with the public sector to the government.18
+ It did not lead to any change in the stake of the public
+sector/government in the disinvested PSUs.
+18
+ Since 2020-21, the central government has not executed
+transactions involving sale of one PSU to another PSU.
+
+Deficits and debts are at an elevated level
+Revenue and fiscal deficit of the central government
+increased substantially in 2020-21. However, some
+of the increase (1.7% of GDP) was due to clearing
+off loans given to FCI for food subsidy dues from
+previous years. Since then, deficits have reduced.
+However, the Centre has continued to incur a
+substantial revenue deficit. Revenue deficit implies
+that the government is borrowing to finance
+expenditure which does not lead to creation of assets
+or reduces liabilities. The FRBM Review
+Committee (2017) said that financing recurring
+expenditure through borrowings is not desirable and
+they should be financed through tax revenues.19
+
+The Fiscal Responsibility and Budget Management
+Act, 2003 required the central government to limit
+its fiscal deficit to 3% of GDP by March 31, 2021.20
+
+In 2021, the Centre proposed to amend the Act to
+reflect the redrawn fiscal consolidation roadmap.21
+
+The announced fiscal deficit target for 2025-26 is
+below 4.5% of GDP.21
+Figure 7: Revenue deficit and fiscal deficit as % of
+GDP
+Note: RE is revised estimate and BE is budget estimate.
+Sources: Union Budget Documents; PRS.
+Along with elevated revenue and fiscal deficits, the central government’s liabilities have also reached beyond
+limits prescribed under the FRBM Act. In 2018, the FRBM Act was amended to limit general government debt
+(Centre and states) at 60% of GDP.
+20
+ Out of this, central government debt was capped at 40% of GDP which
+was to be achieved by 2024-25. This was in line with the recommendations of the FRBM review committee.19
+
+In 2018-19, the Centre’s debt to GDP ratio was at 48% of GDP which increased to 61% of GDP in 2020-21,
+following economic slowdown and the impact of COVID-19 on government spending and revenue. Since then,
+it is estimated to reduce to 57% of GDP in 2024-25. High level of debt has contributed to the central
+government spending a significant portion of its revenue receipts on interest payments. In 2019-20, the central
+
+government spent 36% of its revenue receipts on interest payments which is estimated to increase to 37% of
+revenue receipts as per budget estimates of 2024-25.
+Figure 8: Centre's outstanding liabilities as % of
+GDP
+Note: RE is revised estimate and BE is budget estimate.
+Sources: Economic Survey 2023-24; Union Budget Documents;
+PRS.
+Figure 9: Interest payments as % of revenue
+receipts
+Note: RE is revised estimate and BE is budget estimate.
+Sources: Union Budget Documents; PRS.
+Centre has been reporting off-budget loans; however, issues persist with disclosures
+Off-budget borrowings refer to borrowings that are not directly made by the government, but where principal
+and interest are serviced from the government budget. Such borrowings are typically raised by governmentowned entities such as public sector enterprises. As these borrowings are not part of the government budget
+documents, they lead to understatement of fiscal deficit. CAG(2018) had noted that the central government had
+resorted to off-budget financing for items such as food subsidy bills and implementation of irrigation schemes.9
+
+It recommended that the central government may put in place a framework to disclose off-budget financing.9
+
+Since 2019-20, the central government has
+provided a statement disclosing off-budget
+borrowings raised by public enterprises. These
+were raised by: (i) issuing bonds by public
+enterprises which were serviced by the central
+government and (ii) providing loans to public
+enterprises from the NSSF. For instance,
+between 2016-17 and 2020-21, loans worth Rs
+4.3 lakh crore were provided to the Food
+Corporation of India from the NSSF. They were
+provided in lieu of food subsidy dues owed by
+the Centre to the FCI. These loans to the FCI
+accounted for 67% of the total off-budget
+borrowings raised during this period. Had these
+loans been included in the Centre’s borrowings,
+its actual fiscal deficit would have been higher
+than the reported fiscal deficit between 2016-17
+and 2020-21 (see Figure 10). In 2018-19 and
+2019-20, the Centre’s fiscal deficit after
+accounting for off-budget borrowings would
+have been almost one percentage point higher
+than the reported fiscal deficit.
+Figure 10: Central government’s fiscal deficit including
+off-budget borrowings (% of GDP)
+Note: Fiscal deficit as percentage of GDP calculated as per latest GDP
+figures. RE is revised estimate and BE is budget estimate.
+Sources: Union Budget Documents, MoSPI; PRS.
+CAG has highlighted issues in the disclosure of off-budget borrowings by the central government. It noted that
+the Centre did not include an amount of Rs 14,985 crore in its disclosure which was raised by Air India Assets
+Holding Limited in 2019-20.22
+ Servicing of this debt was to be done through budgetary support provided by the
+Ministry of Civil Aviation. Similarly, a one-time financing arrangement of Rs 50,551 crore for the railways
+through the Indian Railways Finance Corporation (IRFC) Limited should have also been included in the
+Centre’s disclosure for 2020-21.22
+ Note that if these items are included in off-budget borrowings, then the
+adjusted fiscal deficit as shown in Figure 10 would be higher by 0.1 percentage point and 0.3 percentage point in
+2019-20 and 2020-21 respectively.
